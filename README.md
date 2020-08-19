@@ -1,4 +1,4 @@
-# Health-Wellness-Management-System-Backend
+# Health-Wellness-Management-System-React
 React Application created for final project in course CS5200
 
 ## Authors
