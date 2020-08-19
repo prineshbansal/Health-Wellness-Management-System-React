@@ -2,9 +2,9 @@
 React Application created for final project in course CS5200
 
 ## Authors
-* [Prinesh Bansal](https://github.com/prineshbansal) 
 * [Aditya Gutte](https://github.com/adityagutte)
 * [Aditya Tekur](https://github.com/aditek1105)
+* [Prinesh Bansal](https://github.com/prineshbansal) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
